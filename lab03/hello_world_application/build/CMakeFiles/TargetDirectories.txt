@@ -1,0 +1,6 @@
+/home/narek/Документы/timp/timp-lab03/lab03/hello_world_application/build/CMakeFiles/hello_world.dir
+/home/narek/Документы/timp/timp-lab03/lab03/hello_world_application/build/CMakeFiles/edit_cache.dir
+/home/narek/Документы/timp/timp-lab03/lab03/hello_world_application/build/CMakeFiles/rebuild_cache.dir
+/home/narek/Документы/timp/timp-lab03/lab03/hello_world_application/build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/narek/Документы/timp/timp-lab03/lab03/hello_world_application/build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/narek/Документы/timp/timp-lab03/lab03/hello_world_application/build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
